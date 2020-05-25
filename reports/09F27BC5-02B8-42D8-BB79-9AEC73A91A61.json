@@ -1,8 +1,23 @@
 {
-  "type": "",
+  "type": "Periodic transaction report",
   "title": "",
   "filer": "",
   "filed-date": "",
   "filed-time": "",
-  "data": []
+  "data": [
+    {
+      "heading": "Transactions",
+      "amended": false,
+      "rows": [
+        {
+          "transaction-date": "",
+          "owner": "Dependent child",
+          "ticker": "",
+          "asset-name": "",
+          "transaction-type": "Purchase",
+          "amount": ""
+        }
+      ]
+    }
+  ]
 }
