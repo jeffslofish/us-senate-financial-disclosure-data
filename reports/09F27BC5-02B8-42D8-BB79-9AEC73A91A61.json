@@ -1,7 +1,7 @@
 {
   "type": "Periodic transaction report",
   "title": "",
-  "filer": "",
+  "filer": "Martha McSally (Arizona)",
   "filed-date": "",
   "filed-time": "",
   "data": [
@@ -11,7 +11,7 @@
       "rows": [
         {
           "transaction-date": "",
-          "owner": "Dependent child",
+          "owner": "Spouse and dependent child",
           "ticker": "test with new access priv",
           "asset-name": "",
           "transaction-type": "Purchase",
