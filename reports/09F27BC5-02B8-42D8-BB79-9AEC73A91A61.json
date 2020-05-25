@@ -12,7 +12,7 @@
         {
           "transaction-date": "",
           "owner": "Dependent child",
-          "ticker": "foobar",
+          "ticker": "test with new access priv",
           "asset-name": "",
           "transaction-type": "Purchase",
           "amount": ""
